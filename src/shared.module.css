@@ -1,0 +1,11 @@
+.baseBtn {
+  background-color: cyan;
+  color: black;
+  padding: 1rem;
+  font-size: 2rem;
+}
+
+.btnVariant {
+  composes: baseBtn;
+  background-color: coral;
+}

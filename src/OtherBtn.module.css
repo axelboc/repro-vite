@@ -1,0 +1,5 @@
+.btn {
+  composes: btnVariant from './shared.module.css';
+  background-color: purple;
+  color: white;
+}
